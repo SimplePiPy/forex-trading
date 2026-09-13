@@ -49,7 +49,7 @@ Each sequence is 6–10 Stories posted over 2–3 hours. Save them as Highlights
 ### 3.1 · LAUNCH (Day 1)
 1. Face, 6:30 AM: "Day 1 of 90. Watch this."
 2. Text on a tree photo: "500,000 followers. 90 days. From up there."
-3. Face: "Here's why: [the baby, the business, the tradesmen who deserve to be seen]."
+3. Face: "Here's why: [the business, the tradesmen who deserve to be seen, and one reason I'll tell you in two weeks]."
 4. Poll: "Think I'll make it? Yes / No / Don't care, I'm watching."
 5. The Reel A reshared: "Day 1 is live."
 6. Question box: "What do you want to see? Tree stuff, business stuff, or the quiet stuff?"
@@ -112,7 +112,7 @@ This sequence builds more trust than any win.
 ### 3.10 · LIVE NIGHT (Thursdays)
 1. Morning: countdown sticker "Hook Clinic 8 PM." 2. Afternoon: "Send me your hook, I'll fix 5 live." 3. 7:45: "15 minutes." 4. After: 3 clips, "Missed it? Here's one."
 
-### 3.11 · THE BABY (whenever, only what you both agree)
+### 3.11 · THE BABY (Day 14 or later, never before your parents know, only what you both agree)
 1. Face: one sentence. 2. A photo. 3. "Day X. Still here." Nothing else is owed.
 
 ### 3.12 · THE FINAL CLIMB (Days 85–90, three times a day)

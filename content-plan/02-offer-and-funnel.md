@@ -53,7 +53,7 @@ Application (short form, 6 questions)  →  you reply by DM voice note within 12
 
 > **[Name]** · Climber · Operator · Teacher
 > Day X/90 of speed-running 0 → 500K 🌲
-> Turning tradesmen into brands. Baby due [month].
+> Turning tradesmen into brands.
 > DM **CLIMB** for the free Speedrun Playbook 👇
 > [link]
 

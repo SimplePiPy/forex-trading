@@ -18,7 +18,7 @@ This folder is the whole operating system. Read it in order once, then live in f
 
 ## The whole plan in ten lines
 
-1. **One story, told in public:** "Day X of speed-running 0 → 500K followers in 90 days, while finishing a $40,000 tree job and getting ready for my first kid." Every post is an episode.
+1. **One story, told in public:** "Day X of speed-running 0 → 500K followers in 90 days, while finishing a $40,000 tree job and refusing to skip the beach." Every post is an episode. (The baby is the second act: it stays off camera until you've told your parents on the beach trip, then it becomes the Day 14 reveal.)
 2. **The Climb is the reach engine.** Helmet-cam tree work is some of the most watchable footage on the internet. It brings the strangers.
 3. **The Speedrun is the authority engine.** You show the numbers, the hooks, the wins and misses. That is what makes people want to be *taught* by you.
 4. **The Operator is the buyer engine.** How a $40K job gets quoted, crewed, run and collected. Tradesmen and owners with money watch this.
@@ -34,6 +34,7 @@ This folder is the whole operating system. Read it in order once, then live in f
 - [ ] Bio rewritten (copy in 02). Link to the Playbook waitlist page.
 - [ ] ManyChat (or Instagram's native DM automation) set up with keyword **CLIMB** → Playbook link + waitlist question.
 - [ ] Helmet GoPro rigged; ZV-E10 on the gimbal with Mariah or a crew member on the ground; iPhone in chest pocket for Stories.
+- [ ] Nothing about the pregnancy on camera, in captions, or in Stories until after you tell your parents at the beach. The reveal is Day 14.
 - [ ] Post the **Declaration** Reel at 7:00 AM (script in 05, Day 1 Slot A).
 - [ ] Post 3 Reels, 10+ Stories, reply to every comment within the first 60 minutes of each post.
 - [ ] Log the day in the metrics sheet (07).

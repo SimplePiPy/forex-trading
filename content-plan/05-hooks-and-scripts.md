@@ -171,7 +171,7 @@ Format: **[on-screen hook]** → what the camera shows → what you say (VO = vo
 **A · THE DECLARATION (30 s)**
 Hook frame: helmet cam, the ground falling away as you ascend, text: **"Day 1 of 90."**
 VO (recorded on the tailgate, calm, no hype):
-> "Day one of ninety. I run a tree company. This is a forty-thousand-dollar job, and we finish it this week. My girlfriend's pregnant. Next week I'm at the beach, and I'm still going to post three times a day. I'm going to hit five hundred thousand followers in ninety days from the top of this tree, or I'm going to show you every number on the way to why I didn't. If you're a tradesman who's tired of being the best-kept secret in your town, stick around. Day one."
+> "Day one of ninety. I run a tree company. This is a forty-thousand-dollar job, and we finish it this week. Next week I'm at the beach, and I'm still going to post three times a day. I'm going to hit five hundred thousand followers in ninety days from the top of this tree, or I'm going to show you every number on the way to why I didn't. If you're a tradesman who's tired of being the best-kept secret in your town, stick around. Day one."
 Cut: the top-out, the view, cut to black, counter "1/90".
 Caption: "Day 1 of 90. 0 → 500K from the top of a tree. Every number, every post, every mistake, in public. Comment CLIMB and I'll send you the Playbook I'm running (updated every Sunday)."
 Pinned comment: "CLIMB = the Playbook. What's your trade? 👇"
@@ -214,9 +214,9 @@ CTA: CLIMB.
 Hook frame: crew working behind you, text: **"How I pay a crew on a $40K job."**
 TH: the draw vs the deposit, why you pay Friday no matter what, the progress payment, what happens if the client's late. One rule: "The crew never waits on the client." CTA: QUOTE.
 
-**C · BUILDING THIS FOR THEM (20 s)**
-Hook frame: ultrasound photo on the dash, or your hand on the tailgate, text: **"Building this so I'm home when my kid is born."**
-VO: "Not up a tree. Not on a job I took because I needed the money. Home. That's the whole reason for the ninety days." No CTA.
+**C · THE REAL REASON, LATER (20 s)**
+Hook frame: your hands on the tailgate, helmet beside them, dusk, text: **"I'll tell you the real reason in two weeks."**
+VO: "I'm building this so the company doesn't need me on a job site every day. That's the business reason. There's another one. Some things you tell your family before you tell the internet. Two weeks." No CTA.
 
 ### DAY 4 · Thu Sep 17
 
@@ -250,7 +250,7 @@ VO: "Here's why I'm allowed to. The crew's got next week's jobs on a one-page sc
 
 **A ·** (from bank) rigging POV, text: **"Yesterday: 70 feet up. Today: the ocean. Day 6."** No VO. CTA: CLIMB.
 **B · CAR TH (40 s)** text: **"Day 6. The first 5 days in numbers."** "Five days, fifteen posts, [X] followers, [Y] views. The best one was [ ]. The worst was [ ]. And yes, I'm posting three times a day from vacation, because the system doesn't know I'm at the beach." CTA: CLIMB.
-**C · ARRIVAL (15 s)** gimbal, the house, the water. Text only: **"Built a company so I could stand here. Building an audience so my kid sees a dad who's home."** No CTA.
+**C · ARRIVAL (15 s)** gimbal, the house, the water. Text only: **"Built a company so I could stand here. Building an audience so I never have to choose between a job and a week like this."** No CTA.
 
 ### DAY 7 · Sun Sep 20
 
@@ -281,7 +281,7 @@ VO: "Here's why I'm allowed to. The crew's got next week's jobs on a one-page sc
 
 **A ·** (bank) music-driven fast cut, text: **"POV: you get paid to do this."** CTA: CLIMB.
 **B · THE FLOP (40 s)** text: **"The post that flopped."** Show it. Say the number. Say why (you think). Say what you'd change. CTA: HOOKS.
-**C · BABY (20 s)** whatever's real and agreed. Text: **"We're having a baby. Day 11."** No CTA.
+**C · FAMILY FIRST (15 s)** porch, dusk. Text: **"Day 11. Some things you tell your family before you tell the internet."** No VO. No CTA. (Tell your parents this week. Nothing else goes public until Day 14.)
 
 ### DAY 12 · Fri Sep 25
 
@@ -299,7 +299,8 @@ VO: "Here's why I'm allowed to. The crew's got next week's jobs on a one-page sc
 
 **A ·** new job POV, text: **"Day 14. Back up a tree."** CTA: CLIMB.
 **B · WEEK 2 RECAP (45 s)** text: **"Two weeks in. [X] followers."** Graph, best, worst, plan. "And something's coming for the operators in here. Reply 🌲 on my story." CTA: HOOKS.
-**C · AMA ANSWER (30 s)** text: **"You asked: [best question]."** Answer it straight. CTA: CLIMB.
+**C · THE REVEAL (30 s)** truck or porch, you (and Mariah only if she wants). Text: **"Day 14. The real reason I'm doing this."**
+TH: "Two weeks ago I said I'd tell you why. We're having a baby. I'm building this so I'm home when they're born, not up a tree because I had to take the job. That's it. That's the reason. Day fourteen." No CTA. (Only post this once your parents know. If they don't yet, post the AMA answer here and run the reveal the first day after they do.)
 **YouTube #2** live 9 AM. Waitlist Stories run all day (06 §3.2).
 
 ## 5. Re-hook rule

@@ -24,7 +24,7 @@ Phases:
 ## PHASE 1 · THE JOB (Days 1–5)
 
 ### Day 1 · Mon Sep 14
-- **A:** THE DECLARATION. Helmet cam, first frame is the ground falling away as you ascend. **"Day 1 of 90. I'm going to hit 500,000 followers from the top of this tree, or I'm going to show you exactly why I didn't."** 30 seconds. Stakes: $40K job, baby, beach next week. CTA: CLIMB.
+- **A:** THE DECLARATION. Helmet cam, first frame is the ground falling away as you ascend. **"Day 1 of 90. I'm going to hit 500,000 followers from the top of this tree, or I'm going to show you exactly why I didn't."** 30 seconds. Stakes: $40K job, beach next week, three posts a day no matter what. CTA: CLIMB.
 - **B:** OPERATOR. Phone-to-face, standing at the job. **"This is a $40,000 tree job. Here's how a mobile home park ends up paying that."** 45 seconds. The scope, the count of trees, the risk, why nobody else bid it. CTA: QUOTE.
 - **C:** STILLNESS. ZV-E10, tripod, dawn. You sitting on the tailgate, eyes closed. **"10 minutes of this before every climb. Here's why."** 20 seconds, voice-over. CTA: STILL.
 - Stories: Launch sequence (06 §3.1). Broadcast Channel: create it, name it "The Crew", first message: "Day 1. You're early."
@@ -37,7 +37,7 @@ Phases:
 ### Day 3 · Wed Sep 16
 - **A:** POV, the walk-up and the look up. **"They said this one couldn't be climbed. Watch."** Voice-over: the plan for the tree in 3 sentences. Payoff: the top-out. CTA: CLIMB.
 - **B:** OPERATOR. **"How I pay a crew on a $40K job without going broke before the check clears."** Talking head, ground, with the crew working behind you. Draw, deposit, progress payment. CTA: QUOTE.
-- **C:** STILLNESS + BABY. Mariah on camera only if she's fully in (ask first, every time). Otherwise: ultrasound photo, your hand, tailgate. **"Building this so I'm home when my kid is born, not up a tree."** 20 seconds. CTA: none. Let it breathe.
+- **C:** STILLNESS. Tailgate, dusk, your hands, the helmet. **"I'm building this so the business doesn't need me on a job site every day. I'll tell you the real reason in two weeks."** 20 seconds. Open loop for the Day 14 reveal. CTA: none. Let it breathe.
 
 ### Day 4 · Thu Sep 17
 - **A:** The crew. Gimbal shot (ZV-E10) of the groundies moving brush, then cut to your POV above. **"Everybody watches the climber. Nobody watches the guys who keep him alive."** 25 seconds. Sends: "tag your groundie." CTA: CLIMB.
@@ -59,7 +59,7 @@ You have a bank of 5 days of tree footage. The editor (or you, 90 min/morning) c
 ### Day 6 · Sat Sep 19 (travel)
 - **A:** From the bank: a rigging POV. **"Yesterday I was 70 feet up. Today I'm driving to the ocean. Day 6."**
 - **B:** Car, dash mount, iPhone. **"Day 6. Numbers after the first 5 days. And the honest thing about the beach."** Say the numbers, say you're posting 3x/day from vacation, say why: systems. CTA: CLIMB.
-- **C:** Arrival shot, gimbal, the house, the water. Silent, text: **"Built a company so I could stand here. Now building an audience so my kid sees a dad who's home."** CTA: none.
+- **C:** Arrival shot, gimbal, the house, the water. Silent, text: **"Built a company so I could stand here. Building an audience so I never have to choose between a job and a week like this."** CTA: none.
 
 ### Day 7 · Sun Sep 20
 - **A:** Bank POV, a near-miss or a tight cut. **"The cut I still think about."** CTA: CLIMB.
@@ -86,7 +86,7 @@ You have a bank of 5 days of tree footage. The editor (or you, 90 min/morning) c
 ### Day 11 · Thu Sep 24
 - **A:** Bank, fastest cut sequence, music-driven. **"POV: you get paid to do this."** CTA: CLIMB.
 - **B:** SPEEDRUN. **"Day 11. The post that flopped and what I learned about hooks from it."** Be brutally honest. Show the 600-view post. CTA: HOOKS.
-- **C:** Baby prep. Whatever's real: a name list, a crib box, a conversation on the porch (with consent). **"We're having a baby. I'm building this for them. Day 11."** CTA: none.
+- **C:** STILLNESS. Porch, dusk, your parents somewhere in frame if they're there and fine with it. **"Day 11. Some things you tell your family before you tell the internet."** 15 seconds. The loop tightens. CTA: none. (This is the week you tell them. Nothing more than this line goes public.)
 
 ### Day 12 · Fri Sep 25
 - **A:** Bank, one of the best cuts, re-hooked. **"I wasn't going to post this one."** (Same footage, new hook. That's the lesson.) CTA: CLIMB.
@@ -105,14 +105,14 @@ You have a bank of 5 days of tree footage. The editor (or you, 90 min/morning) c
 ### Day 14 · Sun Sep 27 · WAITLIST OPENS
 - **A:** Back on the tools. New job POV, whatever's on the schedule. **"Day 14. Back up a tree. Let's go."** CTA: CLIMB.
 - **B:** SPEEDRUN, Week 2 recap. **"Two weeks in. [X] followers. Here's the graph, the best post, and the plan for week 3."** CTA: HOOKS.
-- **C:** Answer the best AMA question from Day 13. **"You asked: [question]. Honest answer:"** CTA: CLIMB.
+- **C:** THE REVEAL (only if your parents know by now; otherwise push this to the first day after they do). Truck or porch, you and Mariah if she wants to be in it, otherwise just you. **"Day 14. The real reason I'm doing this."** 30 seconds: "Two weeks ago I said I'd tell you why. We're having a baby. I'm building this so I'm home when they're born, not up a tree because I had to take the job." CTA: none. Expect this to be the biggest post of the month. The AMA answers move to Day 15 Slot C.
 - **YouTube film #2:** "I Posted 3x a Day From Vacation. Here's What Happened." Beach week + numbers + the lessons.
 - **Stories:** WAITLIST sequence (06 §3.2). "Something's coming for the operators in here. Reply 🌲."
 
 ### Day 15 · Mon Sep 28
 - **A:** POV, first big cut back. **"First cut back from vacation. Rusty is dangerous."** CTA: CLIMB.
 - **B:** OPERATOR. **"The one-page schedule that runs my whole company."** Screen + voice. CTA: QUOTE.
-- **C:** STILLNESS. **"The morning routine, Day 15, no music, no fluff."** Meditation, one page of writing, coffee, truck. 20 sec. CTA: STILL.
+- **C:** Answer the best AMA question from Day 13. **"You asked: [question]. Honest answer:"** CTA: CLIMB. (The morning-routine post moves to Day 17 Slot C.)
 
 ### Day 16 · Tue Sep 29
 - **A:** Groundie POV (give the GoPro to a crew member). **"POV: you're the groundie and the climber just yelled 'headache.'"** CTA: CLIMB.
@@ -122,7 +122,7 @@ You have a bank of 5 days of tree footage. The editor (or you, 90 min/morning) c
 ### Day 17 · Wed Sep 30
 - **A:** POV, a removal near a structure. **"6 inches from the roof. No room for a mistake."** CTA: CLIMB.
 - **B:** OPERATOR. **"3 questions I ask before I take a job. Saved me from 4 lawsuits."** CTA: QUOTE.
-- **C:** STILLNESS. **"Day 17. What I'm writing about this week: fear."** Read a paragraph. CTA: STILL.
+- **C:** STILLNESS. **"The morning routine, Day 17, no music, no fluff."** Meditation, one page of writing, coffee, truck. 20 sec. CTA: STILL.
 
 ### Day 18 · Thu Oct 1
 - **A:** The drone-free "look up" shot, gimbal, then cut to the top. **"Ground to top in 40 seconds."** Time-lapse from the helmet. CTA: CLIMB.

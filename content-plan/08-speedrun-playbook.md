@@ -163,7 +163,7 @@ If you post all seven, DM me the word SEVEN and I'll look at your account.
 27. 3 questions I ask before I take a job.
 28. How I got a [customer] to pay a $[X] deposit before I touched anything.
 29. How I'd start a [trade] company with $10K today.
-30. Building this so I'm home when my kid is born, not on a job.
+30. Building this so [the real reason], not on a job.
 
 ---
 

@@ -8,7 +8,9 @@ A 90-day speedrun to 500,000 followers, documented in public, from the top of a 
 Why this works when "just post good content" doesn't:
 
 - **It has a clock.** Day counters make people come back. A speedrun is a story with a beginning, a middle and a deadline. Nobody follows a random tree guy every day. Everybody follows "Day 47 of 90."
-- **It has stakes people can feel.** A $40,000 job you have to land safely. A baby on the way. A vacation you're refusing to skip because you built a business that runs. Those three facts alone are hook material for 90 days.
+- **It has stakes people can feel.** A $40,000 job you have to land safely. A vacation you're refusing to skip because you built a business that runs. And a second act nobody sees coming: the baby, revealed on Day 14 after you've told your parents at the beach. Those three facts alone are hook material for 90 days.
+
+**The embargo:** no mention of the pregnancy anywhere public (Reels, captions, Stories, DMs, the Playbook, the bio) until you have told your parents in person at Oak Island. Days 0–13 run on the job, the speedrun, and the beach. The reveal is a planned post, not a slip.
 - **It's visual in a way talking heads never are.** A GoPro at 70 feet with a chainsaw is scroll-stopping without a single word. Most growth coaches film in a bedroom. You film in the canopy.
 - **The proof and the product are the same thing.** Every follower you gain is a receipt. By Day 45 you don't have to *claim* you can grow an account, you have a graph.
 - **It's a format other people can copy, and you're going to teach it.** That's the mentorship.
