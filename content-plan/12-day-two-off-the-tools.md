@@ -149,7 +149,7 @@ The Operator post. This is the one the buyers watch.
 
 > Day two and I'm not on the jobsite. I'm at my kitchen table.
 >
-> Here's what today is. I've got a progress payment I need in my account before Saturday, because Saturday I leave for a week. If I don't make that call today it sits for eight days and I'm chasing it in October. That call takes eleven minutes. Eleven minutes today is three weeks of cash flow.
+> Here's what today is. I've got a progress payment I need in my account this week, because I'm out of town for a while after that. If I don't make that call today it sits for eight days and I'm chasing it in October. That call takes eleven minutes. Eleven minutes today is three weeks of cash flow.
 >
 > Second thing. We're a day behind now, and I'd rather find that out on a Tuesday with a pen in my hand than on Friday at four o'clock with a tired crew and a tree over somebody's roof.
 >

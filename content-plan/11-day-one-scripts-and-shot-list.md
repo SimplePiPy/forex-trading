@@ -22,7 +22,7 @@ If the audio is rough because the DJI mic wasn't on, burn the captions in and le
 
 Use the footage as B-roll and record 30 seconds of voice-over into the phone right now, sitting in the truck with the windows up. That's the quietest recording booth you own.
 
-> Day one of ninety. I run a tree company. This is a forty-thousand-dollar job at a mobile home park, and we finish it this week. Next Saturday I'm at the beach, and I'm still going to post three times a day. I'm going to hit five hundred thousand followers in ninety days from the top of this tree, or I'm going to show you every number on the way to why I didn't. If you're a tradesman who's tired of being the best-kept secret in your town, stick around. Day one.
+> Day one of ninety. I run a tree company. This is a forty-thousand-dollar job at a mobile home park, and we finish it this week. I've got a trip coming up, and I'm still going to post three times a day through it. I'm going to hit five hundred thousand followers in ninety days from the top of this tree, or I'm going to show you every number on the way to why I didn't. If you're a tradesman who's tired of being the best-kept secret in your town, stick around. Day one.
 
 **First-frame text:** same as above. Lay the voice-over under your best 30 seconds of footage. Biggest tree first, always.
 

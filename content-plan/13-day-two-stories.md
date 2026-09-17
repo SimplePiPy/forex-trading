@@ -36,7 +36,7 @@ Don't film other people at the gym. Point it at yourself, the bar, the floor, th
 > "Nobody tells you how much of running a company is managing your own head so you don't wreck something."
 
 **Story 6** · Selfie, in the truck after, sweaty, 15 seconds
-> "That's better. Here's what I'm walking into. Progress payment on a forty-thousand-dollar job. I leave Saturday for a week. If this doesn't move today it sits for eight days and I'm chasing it in October. Eleven-minute phone call. Making it now."
+> "That's better. Here's what I'm walking into. Progress payment on a forty-thousand-dollar job. I'm out of town for a while after this week. If this doesn't move today it sits for eight days and I'm chasing it in October. Eleven-minute phone call. Making it now."
 
 **Story 7** · Countdown or just text:
 > "Calling in 5. I'll tell you how it goes either way."
@@ -73,7 +73,7 @@ Screenshot the best answers tonight or tomorrow and reply on camera. That's free
 ## Block 4 · Afternoon and evening
 
 **Story 11** · Photo of the pen-and-paper week plan, numbers and names blurred or cropped
-> "Three days to do four days of work, and I leave Saturday. Figuring out right now what gets finished and what gets scheduled for the 28th. Rather decide that on a Tuesday with a pen than Friday at 4 with a tired crew."
+> "Three days to do four days of work, and then I'm out of town. Figuring out right now what gets finished and what gets scheduled for the 28th. Rather decide that on a Tuesday with a pen than Friday at 4 with a tired crew."
 
 **Story 12** · Photo of the clean kitchen or the made bed
 > "Small thing. Coming home to this on the 26th is going to feel great."

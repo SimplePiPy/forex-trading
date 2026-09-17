@@ -10,7 +10,7 @@
 2. "I'm not going to pretend today was a good day."
 3. **The lift.** Supposed to be on site at seven. Showed up at one thirty. And the guy who dropped it off forgot to put hydraulic fluid and diesel in it. So we didn't start until two thirty.
 4. **What you got.** Most of the stumps cut as low as we could get them. One tree. That's it. That's the day.
-5. **What it means.** Tomorrow and Friday are going to hurt. Crane's coming, extra hands are coming, and I leave Saturday either way.
+5. **What it means.** Tomorrow and Friday are going to hurt. Crane's coming, extra hands are coming, and this job is done this week either way.
 6. **Where you are right now.** "It's eight o'clock. I just got out of the shower, I'm on the couch with my dog, and I'm waiting on DoorDash because I don't have anything left."
 7. "Day [X]. Still posted."
 
@@ -30,7 +30,7 @@ The counter line at the end is enough. That's not a lesson, that's just true.
 >
 > Got the stumps down and one tree. That's the whole day.
 >
-> Tomorrow and Friday are going to hurt. Crane's coming. I leave Saturday either way.
+> Tomorrow and Friday are going to hurt. Crane's coming. This job is done this week either way.
 >
 > Day [X] of 90. Still posted.
 

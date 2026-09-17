@@ -148,7 +148,7 @@ First-frame text: **"Day 2. Took the dog to my parents' house."**
 
 > Day two of ninety. I took a day off the tools. Made the calls, planned the week, sat down with another tree guy and built his whole content plan.
 >
-> Then I took my dog to my parents' house so he could run around before I leave town for a week.
+> Then I took my dog to my parents' house so he could run around before things get busy.
 >
 > That's the part nobody puts in the business content. You don't build a company so you can work more. You build it so a Tuesday can look like this and nothing falls apart.
 >

@@ -106,3 +106,29 @@ Most growth coaches sell a course. You are going to run a **shared audience.**
 Every member of the Crew gets **collab-posted on your account** at least once (Instagram Collab posts appear on both profiles with combined reach). When you're at 200K, a collab post is worth more to a 900-follower roofer than the entire course. That's the reason people pay $3,700 and the reason they tell their friends. See 02 for the full mechanic.
 
 The second thing: **you update the Playbook live, in public, every Sunday.** Followers watch the strategy evolve. The Playbook at Day 90 is a document 500K people watched get written. Nobody sells that.
+
+## 7. Operational security (read before every travel post)
+
+You are building a public local business account fast. Strangers arrive in volume and you cannot vet any of them. Two things are genuinely worth protecting: an empty house, and a shop full of portable, resaleable equipment. Saws, climbing gear, trailers and a chipper are a known target for people who steal from contractors specifically.
+
+None of this costs you content. The travel story is core to the Operator pillar. You just change *when* and *how precisely* you say it.
+
+**Never say publicly:**
+- A departure date or a return date. Not "Saturday," not "the 19th," not "eight days."
+- A countdown. "3 days till the beach" is the single worst version.
+- Where you live, your street, your house number, your mailbox, or a recognizable view of your house exterior or your neighborhood.
+- Where the equipment sleeps. No shop exteriors, no trailer parked at the house, no "everything's locked in the shop while I'm gone."
+- Real-time "I'm 300 miles away right now."
+
+**Say instead:**
+- "I've got a trip coming up." "I'm out of town for a while." "I'm not home this week."
+- After you're back: "Last week I was at the beach and still posted three times a day." Past tense is free and carries the exact same lesson.
+
+**Post travel content on a one-day delay.** Shoot Sunday, post Monday. Nobody can tell. It removes the live "the house is empty right now" signal and changes nothing about how the content performs.
+
+**Before any trip:**
+- A neighbor or a crew member knows, has a key, and parks in the driveway once.
+- Equipment is inside and locked, or better, at someone else's place.
+- Check what your business listings publish. Many tree companies have a home address on a Google Business Profile, a state license record, or an old Facebook page. If your home address is the business address, that's the thing to fix, not the Instagram caption.
+
+**The rule of thumb:** say it vague beforehand, say it specific afterward.

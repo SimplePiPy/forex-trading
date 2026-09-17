@@ -23,7 +23,7 @@ Most walkthrough videos are unusable because they're a guy wandering around poin
 
 Then one closing line to camera before you gear up:
 
-> "Three trees. We're a day behind and I leave for the beach Saturday. Let's see how this goes."
+> "Three trees. We're a day behind and this job has to be done this week. Let's see how this goes."
 
 **Get a hero shot of each tree** while you're there. Stand back, hold the phone still, frame the whole tree with something for scale. That's your before shot for each one and you'll want all three tonight.
 
@@ -37,7 +37,7 @@ Then one closing line to camera before you gear up:
 
 Cut the walkthrough down hard. Keep the pointing, cut the walking.
 
-**First-frame text:** "Three trees. One day. I leave Saturday."
+**First-frame text:** "Three trees. One day. No more room in the schedule."
 
 Structure:
 - 0:00 you already walking and talking, pointing at tree one

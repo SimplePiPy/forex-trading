@@ -24,7 +24,7 @@
 >
 > There's one more reason. I'm not saying it yet. Some things you tell your family before you tell the internet. Give me two weeks.
 >
-> Next Saturday I'll be at the beach. I'm still posting. Day one is tomorrow at 7 AM.
+> I've got a trip coming up too, and I'm still posting through it. Day one is tomorrow at 7 AM.
 >
 > If you've ever done work that nobody sees, stick around. Day zero.
 
@@ -36,7 +36,7 @@
 - Captions burned in. No music, or something quiet at 5%.
 
 ## Caption
-Tomorrow at 7 AM, Day 1. 0 → 500K from the top of a tree, three posts a day, every number in public, for 90 days. I've got a $40,000 job to finish this week and a beach house next Saturday. Still posting. There's one more reason I'm doing this and I'll tell you in two weeks.
+Tomorrow at 7 AM, Day 1. 0 → 500K from the top of a tree, three posts a day, every number in public, for 90 days. I've got a $40,000 job to finish this week and a trip coming up. Still posting through both. There's one more reason I'm doing this and I'll tell you in two weeks.
 
 Comment **CLIMB** and I'll send you the Playbook I'm running. It gets updated every Sunday with what's actually working.
 
