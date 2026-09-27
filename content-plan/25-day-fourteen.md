@@ -1,20 +1,22 @@
-# Day 14 · Sunday · The Reveal
+# Day 14 · Sunday · Recap + Quiet (reveal on hold)
 
-**Two posts, not three.** The reveal is the biggest thing you'll post in the first month and a third post dilutes it.
+**Two posts.** The reveal is on hold until you and Mariah have talked. Recap in the morning, something quiet at 7 PM.
 
 **Order matters.** Week 2 recap in the morning as the normal Sunday routine. The reveal in the evening, at 7, after Stories have built toward it all day. Emotional posts run better at night and this one gets the whole evening.
 
 ---
 
-## The gate, before anything else
+## The reveal is on hold
 
-**Do your parents know?** You told them at the beach, that was the plan. If they do, everything below runs.
+Right call. It isn't your announcement to make alone, and there's no version of this where posting first and asking second turns out well.
 
-If for any reason they don't yet, the reveal waits. Post the Week 2 recap in the morning, put a beach piece from the bank in the evening, and run the reveal the first day after the conversation. The loop holds fine for another few days. It does not hold if somebody's mom finds out from Instagram.
+**The footage keeps.** Everything shot at the beach sits in the bank with no expiry. When you two decide, the post is already built and it goes up that evening. Nothing wasted.
 
-**And Mariah watches the cut before it posts.** Not a description of it, the actual finished video. She gets a veto on any frame, any word, the whole thing. This is her news as much as yours and she's the one who'll field the messages tomorrow.
+**Do not address the open loop today.** On Day 1 you said you'd tell them the reason in two weeks. Leave it alone. Any post about not telling them the thing draws more attention to it than silence does, and the last thing you want is a comment section full of pregnancy guesses Mariah hasn't agreed to. If somebody asks directly: "Not yet. Soon." Then move on.
 
----
+Most people won't remember one line from a two-week-old post. The ones who do will wait.
+
+**One practical note for the conversation.** The useful version covers more than whether. It covers what and when: is she in frame, is her face in frame, is her name used, is it one post or an ongoing thread, and what week or trimester she'd be comfortable with. "Yes," "yes but not my face," and "yes in December" are three different plans, and knowing which one you have means you never have to ask twice.
 
 ## POST 1 · Week 2 recap · 7:00 AM · 50 seconds
 
@@ -56,80 +58,32 @@ Truck or kitchen, home, first morning back. Not the beach. The contrast of being
 
 ---
 
-## POST 2 · The reveal · 7:00 PM · 45 seconds
+## POST 2 · The dredger · 7:00 PM · 40–60 seconds
 
-**This is the one. It gets made once.**
-
-### Shots
-From the beach bank. None of these need a face, which is deliberate.
-
-| # | Shot | Use |
-|---|---|---|
-| 1 | The two of you walking away from the tripod | Open |
-| 2 | Hands, hers and yours, close and shallow | Middle |
-| 3 | The wide of you both on the deck at dusk | Close |
-| 4 | You talking to camera, water behind you | The spine |
-
-If you didn't get those, shoot it at home tonight in one take at a window. It'll still work. Do not delay it for better footage.
+This slips into the evening slot almost perfectly. Same register, same Sunday quiet, nothing personal disclosed. It was scheduled for Friday, so if it already ran, use the hawk instead and the notes below still hold.
 
 ### Script
-
-> Two weeks ago, on day one, I told you there was one more reason I was doing this and I wasn't ready to say it. I said some things you tell your family before you tell the internet.
->
-> I told them this week. In person, at the beach. So now I can tell you.
->
-> Mariah's pregnant. We're having a baby.
->
-> Here's why that's the reason.
->
-> I've spent years building a company that doesn't need me standing in somebody's yard for it to make money. And it works. I just spent eight days three hundred miles from my shop and the crew ran, the quotes went out, the phone got answered.
->
-> But a business that runs without you is only worth something if you actually use the time.
->
-> So that's what this is. Ninety days, in public, building something that means when my kid gets here I'm in the room, and not up a tree because I had to take the job.
->
-> That's the whole reason. Day fourteen.
+**No voice-over.** Richter is doing all the emotional work and talking over it fights the track. The caption is the script.
 
 ### Edit
-
-| Time | Picture | Audio |
-|---|---|---|
-| 0:00 | Shot 1, the two of you walking away. Hook text on. | Natural, 3 s before voice |
-| 0:03 | Same shot | "Two weeks ago, on day one…" |
-| 0:12 | Cut to you talking, water behind | "I told them this week." |
-| 0:18 | Shot 2, hands | "Mariah's pregnant." |
-| 0:23 | Back to you talking | The why |
-| 0:36 | Shot 3, the wide at dusk | "a business that runs without you…" |
-| 0:43 | Hold the wide, nobody moves | "Day fourteen." |
-| 0:45 | Black. **Day 14 / 90** | Silence |
-
-**No music, or one very quiet ambient bed under 10%.** Natural sound carries this. Anything swelling turns it into an advertisement for your feelings.
-
-### On-screen text
-**"Two weeks ago I said I'd tell you the real reason."**
-
-That cues the loop for everyone who saw Day 1, and intrigues everyone who didn't.
+- Open on the discharge pipe, not the wide. Pouring sand is the hook, context second.
+- Let it run **40 to 60 seconds.** That piece doesn't open up until about thirty and this is the wrong post to make snappy.
+- Cut the on-screen text right back or drop it. One quiet line at most.
+- **Use Instagram's own music library version**, not a file dropped into CapCut. Self-uploaded audio on a track that heavily licensed is how a Reel gets muted after it starts performing.
 
 ### Caption
-> Day 1 I said there was one more reason I was doing this and I wasn't ready to say it. Some things you tell your family before you tell the internet.
+> The ocean takes the beach every year. Every few years they put it back.
 >
-> Told them this week, in person. So here it is. Mariah's pregnant.
+> A mile of pipe pumping sand off the bottom of the inlet onto the shore, one slow load at a time. It'll be gone again.
 >
-> I've spent years building a company that doesn't need me standing in a yard for it to make money. Eight days at the beach, the crew ran, the quotes went out, the phone got answered.
+> I cut down trees that took eighty years to grow. Some of them I plant replacements for. I'll be dead before anybody sees what those become.
 >
-> But a business that runs without you is only worth anything if you actually use the time.
->
-> That's what the next 76 days are for.
+> All the work worth doing is like that.
 >
 > Day 14 of 90.
 
 ### Pinned comment
-**Nothing.** No keyword, no CTA, no link. Not today.
-
-A post like this asking people to comment CLIMB for a free document tells them the whole thing was a setup. Let it be the thing it is. The business result comes from people trusting you, and that trust is what you'd be spending.
-
-### Reply rule
-Reply to every single comment on this one, personally, in your own words. Not "thank you 🙏" copy-pasted forty times. That's two hours tonight and it's the best two hours you'll spend this month.
+**None.** No keyword, no CTA. A post with that song asking people to comment CLIMB undercuts itself.
 
 ---
 
@@ -152,19 +106,16 @@ Do not quietly let it drop. An open loop you abandon costs you more credibility 
 1. Home, unpacking, tired: "Back. Day 14. Week 2 recap is up."
 2. Reshare the recap.
 3. A beach photo: "Eight days, posted every one of them."
-4. Text: "Something I've been holding for two weeks. Tonight at 7."
+4. Text: "Back on the tools tomorrow. [N] trees left at the park." Forward-looking, nothing to deliver.
 
-**Midday, 3 Stories**
-5. Poll: "Guess what I've been sitting on." Options: I know already / no idea
-6. A screenshot of the Day 1 post where you said "give me two weeks": "I said two weeks. It's been two weeks."
-7. Countdown sticker set to 7:00 PM.
+**Evening, 5 Stories**
+5. A quiet beach photo or clip from the bank. No teaser, no countdown, nothing hinting at an announcement.
+6. Question box: "Ask me anything about tree work or the business." The answers become this week's content.
+7. Reshare the evening post, no text over it.
+8. "Day 14: [X] followers." One honest line about week two.
+9. "Back on the tools tomorrow. Finishing the job I left." That's the loop that's safe to open.
 
-**Evening, 3 Stories**
-8. Reshare the reveal, no text over it.
-9. 15 seconds to camera, whatever you actually feel, unpolished.
-10. Late: "Reading every single one of these. Thank you."
-
-**Do not** run a poll or a keyword CTA in the evening block. Nothing gets sold on this day.
+**Do not** run a teaser, a countdown, or any "big news coming." Anything promising an announcement forces you to either deliver one or explain why you didn't.
 
 ---
 
