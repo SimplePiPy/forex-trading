@@ -18,7 +18,7 @@ Read in this order:
 1. `01_PLAN_21_DAYS.md` - the day-by-day
 2. `02_OFFER_GROUNDIE.md` - what you sell, price, and why it beats what is out there
 3. `03_OUTREACH.md` - the audit, the scripts, the lead list you already own
-4. `04_CONTENT_ENGINE.md` - Facebook cross-posting, the Groundie series, the Sunday batch (a Routine now drafts it for you)
+4. `04_CONTENT_ENGINE.md` - Facebook cross-posting, the Groundie series, the Sunday batch (a Routine now drafts it for you every Sunday afternoon)
 5. `05_PRODUCTS.md` - Sprint, Climb, Kit, and the SaaS layer
 6. `../apps/groundie/README.md` - launch the software
 

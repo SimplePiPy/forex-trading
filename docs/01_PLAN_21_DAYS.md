@@ -20,7 +20,7 @@ Day numbers in parentheses are your speedrun days. Times are Eastern.
 - Start the audits: call the top 10 on the list twice today at customer hours. Log answered/unanswered. Note who has a web form; fill it in with your real info.
 
 **Sun Oct 5 (Day 22) - Sunday review**
-- The Routine drafts your week's 21 hooks into Google Drive at 3:49pm. Review, film the 7 talking heads.
+- The Routine drafts your week's 21 hooks at 3:49pm and notifies you (push and email). Review, film the 7 talking heads.
 - Turn on Instagram to Facebook auto-share for Reels in Accounts Center (see `04_CONTENT_ENGINE.md`). From now, every post lands on the monetized Page.
 - Finish the second round of audit calls. Generate audits: `node tools/audit/lead-leak-audit.mjs --name "..." --calls 4 --answered 1 --reviews 42 --avg-ticket 1500 --out audit.md`.
 

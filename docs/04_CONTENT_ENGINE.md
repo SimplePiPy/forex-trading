@@ -41,7 +41,9 @@ Keyword for this series: GROUNDIE. Comment-to-DM reply: "Here's the 2-minute vid
 
 ## 3. The weekly batch is now automatic
 
-A Routine runs every Sunday at 3:49pm Eastern. It reads your Playbook, drafts the week's 21 hooks across the three slots and four pillars (with the Groundie series slotted in and Facebook lengths flagged), writes 7 talking-head scripts, a pinned-comment line for each, and a Sunday review checklist, and saves it as a Google Doc in your Drive named "Week N batch". You open it at your Sunday review, cut what is weak, film the seven. You can edit or pause the Routine any time in Claude.
+A Routine named "Sunday content batch (speedrun + Groundie)" runs every Sunday at 3:49pm Eastern in your Claude account. It drafts the week's 21 hooks across the three slots and four pillars with the Groundie series slotted in and Facebook lengths flagged, seven talking-head scripts, pinned comments, sequel ideas for last week's winner, the Sunday review checklist, and five audit reminders. You get a push notification and an email when it finishes; open the run and copy the batch into your Sunday review.
+
+One limitation to know: the Routine was created from a coding session, and the platform would not attach Google Drive to it. So today it delivers the batch in its reply instead of saving a Google Doc. If you want it written straight into Drive as "Week N batch", recreate it from the Routines page on claude.ai with Google Drive connected and paste the same prompt (it is stored on the Routine). You can also edit the prompt, change the time, or pause it there.
 
 ## 4. Sunday review, extended by 10 minutes
 
