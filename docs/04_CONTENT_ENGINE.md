@@ -26,7 +26,7 @@ You already film the work and the numbers. Add one thread: building and selling 
 Series hooks (slot B unless noted):
 1. "Day 19. I missed 11 calls this week because I was in a tree. Tonight I'm fixing that." (face, truck)
 2. "I called myself and let it ring out. Watch what happened." (phone screen, slot A, sound on)
-3. "I called 10 tree companies in Charlotte at 2pm. Here's how many picked up." (whiteboard or notes app)
+3. "I called 10 tree companies in Roanoke at 2pm. Here's how many picked up." (whiteboard or notes app)
 4. "This is what a $1,500 job looks like when it goes to voicemail." (the industry stats, your math)
 5. "First stranger's phone. First missed call. First text-back. He's watching." (install day, his face)
 6. "What the text actually says. I didn't write it, I trained it on how I talk to customers." (screen recording of a real thread, name blurred)

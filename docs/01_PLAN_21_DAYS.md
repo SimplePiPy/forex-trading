@@ -13,7 +13,7 @@ Day numbers in parentheses are your speedrun days. Times are Eastern.
 - Set conditional call forwarding on your cell to the Twilio number. Call yourself from the crew's phone, let it ring out, get the text. That clip is slot A tomorrow.
 - Run `npm run simulate` and tune the profile JSON until it sounds like you. Change `voice` until the texts read like a crew member.
 - Set up the comment-to-DM keyword GROUNDIE in Instagram (native automation or ManyChat). Reply: "Here's the 2-minute video. What trade are you?" Link to the demo clip.
-- Export the Outscraper sheet (Monkey's Tree Service, shared with you in 2023) to CSV. Run `node tools/leads/rank-outscraper.mjs file.csv --state NC`. Top 25 are your audit list.
+- Export the Outscraper sheet (Monkey's Tree Service, shared with you in 2023) to CSV. Already done: the ranked top 250 are in the Google Sheet "Groundie call sheet - Roanoke (Oct 2026)" in your Drive. Top 25 are your audit list. The list is light on tree companies, so expect plumbers, lawn care, painters and deck builders in the first five.
 
 **Sat Oct 4 (Day 21) - Sprint opens**
 - Post the Sprint open at 12:30. Everyone who DMed CLIMB gets a personal voice note today. Five seats. Price $1,500. Deadline: close Friday Oct 10 or when 5 fill.
@@ -25,7 +25,7 @@ Day numbers in parentheses are your speedrun days. Times are Eastern.
 - Finish the second round of audit calls. Generate audits: `node tools/audit/lead-leak-audit.mjs --name "..." --calls 4 --answered 1 --reviews 42 --avg-ticket 1500 --out audit.md`.
 
 **Mon Oct 6 to Wed Oct 8 (Days 23 to 25)**
-- Deliver 10 audits by DM and text, one a day minimum on camera ("I called 10 tree companies in Charlotte. 7 didn't answer."). That post is the whole offer.
+- Deliver 10 audits by DM and text, one a day minimum on camera ("I called 10 contractors in Roanoke. 7 didn't answer."). That post is the whole offer.
 - Offer to the 10: $197/month, setup fee waived, first month paid up front, I film the install. First five only.
 - Target by Wed: 2 Groundie yeses, 1 Sprint seat.
 

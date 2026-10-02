@@ -4,15 +4,15 @@ Generic AI cold email gets under 1% replies in 2026. You are not doing that. You
 
 ## The lead list you already own
 
-The Outscraper export "Monkey's Tree Service" (shared to your Drive in 2023, about 860 KB) is a Google Maps scrape of tree companies with phones, review counts, websites and booking links. Export it as CSV and run:
+The Outscraper export "Monkey's Tree Service" (shared to your Drive in 2023) is a Google Maps scrape of 1,730 businesses around Roanoke, Lynchburg, Salem, Moneta and Danville, Virginia: deck builders, real estate, property developers, plumbers, lawn care, painters, and a minority of tree companies, with phones, review counts, websites, booking links and carrier type. I ran the ranker on it on October 2, 2026: 1,652 usable rows, 243 strong prospects (score 9 or higher), 19 near-perfect ones. The top 250 are in the Google Sheet "Groundie call sheet - Roanoke (Oct 2026)" in your Drive. Tree companies are a minority on this list, so the first five Groundie clients can be any trade whose business line is a cell phone: plumbers, lawn care, painters, deck builders. To re-run it:
 
 ```bash
-node tools/leads/rank-outscraper.mjs ~/Downloads/tree-companies.csv --state NC --min-reviews 5 --max-reviews 300
+node tools/leads/rank-outscraper.mjs ~/Downloads/outscraper.csv --state VA --min-reviews 5 --max-reviews 300
 ```
 
 It writes a call sheet ranked by who is most likely bleeding calls: real phone, 5 to 300 reviews (active but no front desk), no booking link, no website, and a cell-phone carrier type on the business line. It also estimates missed calls and lost revenue per company so you open with their number, not yours.
 
-Refresh it: a new Outscraper pull for "tree service" in your metro is a few dollars and gives you 2026 data. Add roofing and concrete on the second pull.
+Refresh it: a new Outscraper pull for "tree service" within 60 miles of Roanoke is a few dollars and gives you 2026 data with the tree companies this list is light on. Add roofing and concrete on the second pull.
 
 ## The Lead Leak Audit (20 minutes per company)
 
@@ -30,7 +30,7 @@ The audit says what you did, what you found, what it costs them, and the fix you
 ## Scripts
 
 **Opening text (after the audit calls, before sending the page):**
-"Hey, this is Philip with Monkey's Tree Service in Charlotte. Not a customer, I climb too. I called your line a few times this week for a project I'm doing and most went to voicemail. I wrote up what that's probably costing you, no charge. Want me to send it?"
+"Hey, this is Philip with Monkey's Tree Service in Roanoke. Not a customer, I climb too. I called your line a few times this week for a project I'm doing and most went to voicemail. I wrote up what that's probably costing you, no charge. Want me to send it?"
 
 **Sending the audit:**
 "Here it is. Keep it either way. If you want the thing I use on my own line, text me GROUNDIE and I'll send a 2-minute video of it working."

@@ -22,4 +22,4 @@ Read in this order:
 5. `05_PRODUCTS.md` - Sprint, Climb, Kit, and the SaaS layer
 6. `../apps/groundie/README.md` - launch the software
 
-Two assumptions I made because you were not here to ask: the service area is Charlotte metro (your SWOT mentions Caudle's and a beach house in Oak Island), and the working name for the software is Groundie. Both are a one-line change.
+Two assumptions I made because you were not here to ask: the service area is the Roanoke, Virginia region (your Outscraper list is Roanoke, Lynchburg, Salem and Moneta, and Hunting Hills in your SWOT is a Roanoke neighborhood), and the working name for the software is Groundie. Both are a one-line change.
