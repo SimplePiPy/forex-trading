@@ -13,7 +13,7 @@ Day numbers in parentheses are your speedrun days. Times are Eastern.
 - Set conditional call forwarding on your cell to the Twilio number. Call yourself from the crew's phone, let it ring out, get the text. That clip is slot A tomorrow.
 - Run `npm run simulate` and tune the profile JSON until it sounds like you. Change `voice` until the texts read like a crew member.
 - Set up the comment-to-DM keyword GROUNDIE in Instagram (native automation or ManyChat). Reply: "Here's the 2-minute video. What trade are you?" Link to the demo clip.
-- Export the Outscraper sheet (Monkey's Tree Service, shared with you in 2023) to CSV. Already done: the ranked top 250 are in the Google Sheet "Groundie call sheet - Roanoke (Oct 2026)" in your Drive. Top 25 are your audit list. The list is light on tree companies, so expect plumbers, lawn care, painters and deck builders in the first five.
+- Export the Outscraper sheet (Monkey's Tree Service, shared with you in 2023) to CSV. Already done: the ranked top 250 are in the Google Sheet [Groundie call sheet - Roanoke (Oct 2026)](https://docs.google.com/spreadsheets/d/1PI3BLMakJ4G1H1BHODnWI0AWNNszbMGgRsznv-08NVM/edit) in your Drive. Top 25 are your audit list. The list is light on tree companies, so expect plumbers, lawn care, painters and deck builders in the first five.
 
 **Sat Oct 4 (Day 21) - Sprint opens**
 - Post the Sprint open at 12:30. Everyone who DMed CLIMB gets a personal voice note today. Five seats. Price $1,500. Deadline: close Friday Oct 10 or when 5 fill.
