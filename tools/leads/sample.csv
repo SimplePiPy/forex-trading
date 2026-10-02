@@ -1,0 +1,6 @@
+query,name,site,type,subtypes,category,phone,phone.phones_enricher.carrier_type,city,us_state,rating,reviews,booking_appointment_link,business_status,location_link
+tree service,Big Oak Tree Pros,,Tree service,"Tree service, Arborist",tree service,+1 704-555-0101,mobile,Charlotte,NC,4.8,42,,OPERATIONAL,https://maps.google.com/?cid=1
+tree service,Metro Tree Experts,https://metrotree.example,Tree service,"Tree service",tree service,+1 704-555-0102,landline,Charlotte,NC,4.6,610,https://book.example,OPERATIONAL,https://maps.google.com/?cid=2
+tree service,Cheap Cuts,,Tree service,"Tree service",tree service,,mobile,Gastonia,NC,3.9,8,,OPERATIONAL,https://maps.google.com/?cid=3
+roofing,Ridge Roofing LLC,,Roofing contractor,"Roofing contractor",roofing,+1 704-555-0104,mobile,Concord,NC,4.9,27,,OPERATIONAL,https://maps.google.com/?cid=4
+tree service,Old Closed Tree Co,,Tree service,"Tree service",tree service,+1 704-555-0105,landline,Charlotte,NC,4.1,15,,CLOSED_PERMANENTLY,https://maps.google.com/?cid=5

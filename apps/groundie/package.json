@@ -1,0 +1,19 @@
+{
+  "name": "groundie",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI groundman: answers missed calls by text, qualifies the job, collects photos and address, and hands the owner a quote-ready lead.",
+  "type": "module",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test test/*.test.js",
+    "simulate": "node src/simulate.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "express": "^5.1.0",
+    "twilio": "^5.0.0"
+  }
+}

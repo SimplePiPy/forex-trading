@@ -1,5 +1,7 @@
 # Claude Pro Revenue Strategy
 
+> Superseded by the operating plan in `docs/` (start at `docs/00_START_HERE.md`) and the working software in `apps/groundie`. This file is the original research.
+
 Research date: October 2, 2026. Goal: go from ~$134/month (Facebook content) to $1k, then $10k, then $100k months using Claude Pro, Claude Code, Opus and Fable.
 
 ## 1. What the data actually says
