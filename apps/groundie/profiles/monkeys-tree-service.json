@@ -1,0 +1,22 @@
+{
+  "name": "Monkey's Tree Service",
+  "owner_first_name": "Philip",
+  "owner_cell": "",
+  "time_zone": "America/New_York",
+  "service_area": "Roanoke, Salem, Vinton, Smith Mountain Lake and the surrounding counties in Virginia",
+  "services": [
+    "tree removal",
+    "tree trimming and pruning",
+    "storm damage and emergency removal",
+    "land clearing",
+    "stump grinding (through a partner)",
+    "cat and drone rescues"
+  ],
+  "not_offered": ["lawn care", "landscaping design", "firewood delivery"],
+  "hours": "Monday to Saturday, 7am to 6pm. Emergency storm work any time.",
+  "quote_policy": "Most jobs can be quoted from photos and an address within a few hours. Large removals get a free on-site look.",
+  "deposit_policy": "Deposit required to hold a date on jobs over $1,500.",
+  "voice": "Plain, friendly, blue-collar. Short sentences. No corporate words. Sounds like a crew member texting, not a bot.",
+  "booking_link": "",
+  "review_link": ""
+}
