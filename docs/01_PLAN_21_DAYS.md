@@ -43,7 +43,7 @@ Day numbers in parentheses are your speedrun days. Times are Eastern.
 - Put a one-page Groundie site up (Carrd or a single HTML page): the demo video, three testimonials, the audit table, "$197/month, no contract", a Stripe payment link. Now DMs can close without you.
 - Open the Climb waitlist hard: "Day 40. The Climb opens Day 45. 10 spots." Every Sprint client is a Climb candidate at a credit.
 - Audits continue at 5 a week forever. This is the sales motion. Thirty minutes a day.
-- Targets by Thu Oct 23: 5 Groundie clients live ($985/mo recurring), 2 Sprint seats sold ($3,000), Facebook up 50%+ from cross-posting volume. Collected in the window: $2,000 to $4,500.
+- Targets by Thu Oct 23: 5 Groundie clients live at $985/mo recurring, 2 Sprint seats sold for $3,000, Facebook up 50%+ from cross-posting volume. Collected in the window: $2,000 to $4,500.
 
 ## What you do every single day (90 minutes total, outside the tree)
 

@@ -10,9 +10,9 @@ You are Day 19 of a 90-day speedrun, posting three times a day from a tree, with
 | B. Content | Your speedrun, cross-posted Instagram to Facebook, Facebook already monetized at $134/mo. | Facebook is not in your playbook at all. | Every Reel lands on Facebook automatically; slot B is 45 to 90s for mid-roll ads; Groundie build-in-public is a weekly series. |
 | C. Products | Sprint $1,500 (opens Day 21), Climb $3,700 (opens Day 45), free Playbook as lead magnet. | Designed, not sold. | 1 to 2 Sprint seats sold. Climb waitlist filling. |
 
-**21-day target: $2,000 collected.** Conservative path: 3 Groundie founding clients ($591) + 1 Sprint seat ($1,500) + Facebook ($150 to $250). Stretch: 5 clients + 2 seats = $4,000+.
+**21-day target: $2,000 collected.** Conservative path: 3 Groundie founding clients at $591, 1 Sprint seat at $1,500, and Facebook at $150 to $250. Stretch: 5 clients and 2 seats, over $4,000.
 
-**Then $10,000 months:** 25 Groundie clients ($4,925/mo recurring) + one Climb group of 10 ($37,000 over the quarter) + 2 to 4 Sprints a month. The recurring base is Groundie. The spikes are cohorts. Month 3 is the first realistic $10k month.
+**Then $10,000 months:** 25 Groundie clients at $4,925/mo recurring, one Climb group of 10 worth $37,000 over the quarter, and 2 to 4 Sprints a month. The recurring base is Groundie. The spikes are cohorts. Month 3 is the first realistic $10k month.
 
 Read in this order:
 1. `01_PLAN_21_DAYS.md` - the day-by-day
