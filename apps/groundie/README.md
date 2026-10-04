@@ -47,7 +47,7 @@ owner gets a daily summary at 7pm           GET /leads (board)
 ## Operating costs per client
 
 - Twilio toll-free number: $2.15/mo. SMS: $0.0079 per segment each way. A busy tree company at 60 missed calls a month and 8 texts each is about $8.
-- Claude Opus 5.5 at low effort: about 1,500 input tokens and 150 output tokens a turn, roughly a cent a turn with the cached system prompt. $3 to $5 a month per client. Set `ANTHROPIC_MODEL=claude-sonnet-5-5` to halve that if margins matter more than tone.
+- Claude Opus 5.5 at low effort, with server-side refusal fallbacks on so a declined request is retried on another model instead of leaving the customer hanging: about 1,500 input tokens and 150 output tokens a turn, roughly a cent a turn with the cached system prompt. $3 to $5 a month per client. Set `ANTHROPIC_MODEL=claude-sonnet-5-5` to halve that if margins matter more than tone.
 - Hosting: $5 to $10 a month total for all clients on one box.
 
 ## Multi-client

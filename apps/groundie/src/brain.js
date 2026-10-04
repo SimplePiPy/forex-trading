@@ -99,9 +99,13 @@ export class Brain {
 
   async next(transcript) {
     const messages = transcriptToMessages(transcript);
-    const response = await this.client.messages.create({
+    // Beta endpoint so a safety-classifier decline is retried server-side on a fallback model
+    // instead of leaving the customer with no reply. Same request shape otherwise.
+    const response = await this.client.beta.messages.create({
       model: this.model,
       max_tokens: 1024,
+      betas: ["server-side-fallback-2026-07-01"],
+      fallbacks: "default",
       system: [{ type: "text", text: this.system, cache_control: { type: "ephemeral" } }],
       messages,
       output_config: { effort: this.effort, format: { type: "json_schema", schema: LEAD_SCHEMA } },
