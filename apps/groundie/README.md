@@ -60,6 +60,18 @@ Today one process serves one business (one profile, one Twilio number). To run 2
 - Text-back is a reply to a customer-initiated call, so it is sent immediately. Nudges respect quiet hours.
 - Twilio request signatures are validated when `PUBLIC_URL` and `TWILIO_AUTH_TOKEN` are set. Set `TWILIO_VALIDATE=false` only for local testing.
 
+## End-to-end simulation
+
+Boots the real server on a local port and plays Twilio against it: signed voice and SMS webhooks for a missed call that becomes a quote-ready lead, an emergency, a double call, an answered call, STOP/HELP/START, a forged webhook, a model outage, follow-up nudges and the leads board. It prints every conversation, the texts Philip's phone would get, and a pass/fail table.
+
+```bash
+ANTHROPIC_API_KEY=sk-ant-... npm run e2e      # live: real Claude writes every reply
+npm run e2e -- --scripted                     # no key: a rule-based stand-in plays the model
+npm run e2e -- --report e2e-report.md         # also save the report
+```
+
+Live mode also prints a cost profile (latency, input, cache-read and output tokens). Outbound texts are captured, never sent, so it costs only the Claude calls.
+
 ## Tests
 
 ```bash
